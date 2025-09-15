@@ -216,6 +216,15 @@ nav .right a span {
   margin-top: 20px;
 }
 
+input, textarea, button {
+  border-radius: 5px;
+}
+
+label{
+  text-align: center;
+  padding-bottom: 3px;
+}
+
 .contact-section .group form {
   flex: 3;
   display: flex;
